@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/ICEiHUB/scripts1/main/Magnified%20Goals%20Aimblox%20BETA.lua'),true))()
