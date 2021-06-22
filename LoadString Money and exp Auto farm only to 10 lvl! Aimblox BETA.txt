@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/ICEiHUB/scripts1/main/Money%20and%20exp%20Auto%20farm%20only%20to%2010%20lvl!%20Aimblox%20BETA.lua'),true))()
